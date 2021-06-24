@@ -1,4 +1,4 @@
-Shows possibility to 
+Simple project to test possibility to define active profile during docker build/run
 
 ### Docker environment
 To build and test
